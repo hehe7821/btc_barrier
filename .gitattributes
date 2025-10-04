@@ -1,0 +1,2 @@
+BTCUSDT_1min.csv filter=lfs diff=lfs merge=lfs -text
+ETHBTC_1min.csv filter=lfs diff=lfs merge=lfs -text
